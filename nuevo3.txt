@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 asdasdsadsa
 =======
-Java
+JavaScript
 >>>>>>> fa4c0ec3c70b45a47baf8a384586e56c6c5c253f
