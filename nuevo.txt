@@ -1,3 +1,7 @@
 Hola GIT
 Claudio
+<<<<<<< HEAD
 Jonathan maraca
+=======
+Jonathan
+>>>>>>> 357df7fe318adb49f6b584be7cf673c50cb44fe1
