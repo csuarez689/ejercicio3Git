@@ -1,2 +1,2 @@
 # ejercicio3Git
-Trabao practico GitHub Laboratorio 4
+Trabajo practico GitHub Laboratorio 4
